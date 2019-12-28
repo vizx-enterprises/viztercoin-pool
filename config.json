@@ -88,18 +88,18 @@
     "enabled": true,
     "allowPaymentId": true,
     "interval": 120,
-    "maxAddresses": 50,
+    "maxAddresses": 10,
     "transferFee": 100,
-    "minPayment": 100000,
+    "minPayment": 1000000,
     "minPaymentIdPayment": 10000000,
-    "maxTransactionAmount": 0,
+    "maxTransactionAmount": 99999999,
     "denomination": 100
   },
   "blockUnlocker": {
     "enabled": true,
     "interval": 30,
     "depth": 40,
-    "poolFee": 2,
+    "poolFee": 5,
     "devDonation": 0.1,
     "coreDevDonation": 0.1,
     "extraFeaturesDevDonation": 0.1
