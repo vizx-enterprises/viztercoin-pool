@@ -1,12 +1,12 @@
-var api = 'http://poolhost.com:8117'
+var api = 'http://185.8.177.12:7779'
 
-var api_blockexplorer = 'http://daemonhost.com:11898'
+var api_blockexplorer = 'http://185.8.177.12:3997'
 
-var poolHost = 'poolhost.com'
+var poolHost = '185.8.177.12'
 
 var irc = 'irc.freenode.net/#poolhost'
 
-var email = 'support@poolhost.com'
+var email = 'developers@vizter.xyz'
 
 var cryptonatorWidget = ['{symbol}-BTC', '{symbol}-USD', '{symbol}-EUR']
 
