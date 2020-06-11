@@ -1,8 +1,8 @@
 {
-  "coin": "turtlecoin",
-  "symbol": "TRTL",
+  "coin": "viztercoin",
+  "symbol": "VIZX",
   "coinUnits": 100,
-  "coinDifficultyTarget": 30,
+  "coinDifficultyTarget": 10,
   "logging": {
     "files": {
       "level": "info",
@@ -109,18 +109,18 @@
     "hashrateWindow": 600,
     "updateInterval": 5,
     "host": "127.0.0.1",
-    "port": 8117,
+    "port": 7779,
     "blocks": 30,
     "payments": 30,
-    "password": "your_password"
+    "password": "mine"
   },
   "daemon": {
     "host": "127.0.0.1",
-    "port": 11898
+    "port": 3997
   },
   "wallet": {
     "host": "127.0.0.1",
-    "port": 8070,
+    "port": 9999,
     "password": "<replace with rpc password>"
   },
   "redis": {
