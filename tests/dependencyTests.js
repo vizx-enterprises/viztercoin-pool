@@ -192,8 +192,8 @@ for (i = 0; i < cnsoftshellDatav2.length; i++) {
 
 // turtlecoin-cryptonote-util tests
 
-const validAddressPrefix = 3914525
-const address = new Buffer('TRTLuxN6FVALYxeAEKhtWDYNS9Vd9dHVp3QHwjKbo76ggQKgUfVjQp8iPypECCy3MwZVyu89k1fWE2Ji6EKedbrqECHHWouZN6g')
+const validAddressPrefix = 24746
+const address = new Buffer('VZXZcDfcQ3tFrL52r5X7Tv2hY5t6xFGjyHDbqYMCr5aARxpKwq7hKgP832SSQY91Q94uK9kHfinBKdx632qs7KxK626TspYMaS')
 
 var addressPrefix = cnUtil.address_decode(address)
 
