@@ -23,7 +23,7 @@
         "safe-buffer": "^5.1.2",
         "turtlecoin-cryptonote-util": "0.0.7",
         "turtlecoin-multi-hashing": "0.0.19",
-        "turtlecoin-utils": "https://github.com/vizx-enterprises/viztercoin-utils.git#development"
+        "turtlecoin-utils": "0.0.13"
     },
     "engines": {
         "node": ">=6"
