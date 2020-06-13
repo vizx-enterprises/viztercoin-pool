@@ -1,12 +1,6 @@
 # Create Your Own Pool
 
-#### If You Dont Have Knowledge About These Things, Open A Issue We Will Guide/Create For You!
-
-
-
-
-
-
+If You Dont Have Knowledge About These Things, Open A Issue We Will Guide/Create For You!
 
 turtle-pool (for NodeJS LTS)
 ====================
